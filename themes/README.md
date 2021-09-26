@@ -32,7 +32,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `yeblu` ![yeblu][yeblu] | `blueberry` ![blueberry][blueberry] | `slateorange` ![slateorange][slateorange] |
 | `kacho_ga` ![kacho_ga][kacho_ga] | `outrun` ![outrun][outrun] | `ocean_dark` ![ocean_dark][ocean_dark] |
 | `city_lights` ![city_lights][city_lights] | `github_dark` ![github_dark][github_dark] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple] |
-| [Add your theme][add-theme] | | |
+| `aura_dark` ![aura_dark][aura_dark] | `panda` ![panda][panda] | [Add your theme][add-theme] |
 
 ## Repo Card
 
@@ -56,7 +56,7 @@ Use `?theme=THEME_NAME` parameter like so :-
 | `yeblu` ![yeblu][yeblu_repo] | `blueberry` ![blueberry][blueberry_repo] | `slateorange` ![slateorange][slateorange_repo] |
 | `kacho_ga` ![kacho_ga][kacho_ga_repo] | `outrun` ![outrun][outrun_repo] | `ocean_dark` ![ocean_dark][ocean_dark_repo] |
 | `city_lights` ![city_lights][city_lights_repo] | `github_dark` ![github_dark][github_dark_repo] | `discord_old_blurple` ![discord_old_blurple][discord_old_blurple_repo] |
-| [Add your theme][add-theme] | | |
+| `aura_dark` ![aura_dark][aura_dark_repo] | `panda` ![panda][panda_repo] | [Add your theme][add-theme] |
 
 
 [default]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default
@@ -108,6 +108,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [city_lights]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights
 [github_dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark
 [discord_old_blurple]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=discord_old_blurple
+[aura_dark]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura_dark
+[panda]: https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=panda
 
 
 [default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=default
@@ -159,6 +161,8 @@ Use `?theme=THEME_NAME` parameter like so :-
 [city_lights_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=city_lights
 [github_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=github_dark
 [discord_old_blurple_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=discord_old_blurple
+[aura_dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=aura_dark
+[panda_repo]: https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=panda
 
 
 [add-theme]: https://github.com/anuraghazra/github-readme-stats/edit/master/themes/index.js
